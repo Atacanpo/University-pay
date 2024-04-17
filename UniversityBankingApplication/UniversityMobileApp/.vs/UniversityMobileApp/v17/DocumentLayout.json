@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\source\\repos\\UniversityMobileApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{98A226A9-DB53-4EE2-8E2D-6E70B4C83AE8}|UniversityMobileApp\\UniversityMobileApp.csproj|c:\\users\\pc\\source\\repos\\universitymobileapp\\universitymobileapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98A226A9-DB53-4EE2-8E2D-6E70B4C83AE8}|UniversityMobileApp\\UniversityMobileApp.csproj|solutionrelative:universitymobileapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98A226A9-DB53-4EE2-8E2D-6E70B4C83AE8}|UniversityMobileApp\\UniversityMobileApp.csproj|c:\\users\\pc\\source\\repos\\universitymobileapp\\universitymobileapp\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98A226A9-DB53-4EE2-8E2D-6E70B4C83AE8}|UniversityMobileApp\\UniversityMobileApp.csproj|solutionrelative:universitymobileapp\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98A226A9-DB53-4EE2-8E2D-6E70B4C83AE8}|UniversityMobileApp\\UniversityMobileApp.csproj|c:\\users\\pc\\source\\repos\\universitymobileapp\\universitymobileapp\\entity\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98A226A9-DB53-4EE2-8E2D-6E70B4C83AE8}|UniversityMobileApp\\UniversityMobileApp.csproj|solutionrelative:universitymobileapp\\entity\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98A226A9-DB53-4EE2-8E2D-6E70B4C83AE8}|UniversityMobileApp\\UniversityMobileApp.csproj|c:\\users\\pc\\source\\repos\\universitymobileapp\\universitymobileapp\\response\\studentresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98A226A9-DB53-4EE2-8E2D-6E70B4C83AE8}|UniversityMobileApp\\UniversityMobileApp.csproj|solutionrelative:universitymobileapp\\response\\studentresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98A226A9-DB53-4EE2-8E2D-6E70B4C83AE8}|UniversityMobileApp\\UniversityMobileApp.csproj|c:\\users\\pc\\source\\repos\\universitymobileapp\\universitymobileapp\\migrations\\20240415232519_migrations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98A226A9-DB53-4EE2-8E2D-6E70B4C83AE8}|UniversityMobileApp\\UniversityMobileApp.csproj|solutionrelative:universitymobileapp\\migrations\\20240415232519_migrations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98A226A9-DB53-4EE2-8E2D-6E70B4C83AE8}|UniversityMobileApp\\UniversityMobileApp.csproj|c:\\users\\pc\\source\\repos\\universitymobileapp\\universitymobileapp\\context\\umacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98A226A9-DB53-4EE2-8E2D-6E70B4C83AE8}|UniversityMobileApp\\UniversityMobileApp.csproj|solutionrelative:universitymobileapp\\context\\umacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98A226A9-DB53-4EE2-8E2D-6E70B4C83AE8}|UniversityMobileApp\\UniversityMobileApp.csproj|c:\\users\\pc\\source\\repos\\universitymobileapp\\universitymobileapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{98A226A9-DB53-4EE2-8E2D-6E70B4C83AE8}|UniversityMobileApp\\UniversityMobileApp.csproj|solutionrelative:universitymobileapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20240415232519_migrations.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\UniversityMobileApp\\UniversityMobileApp\\Migrations\\20240415232519_migrations.cs",
+              "RelativeDocumentMoniker": "UniversityMobileApp\\Migrations\\20240415232519_migrations.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\UniversityMobileApp\\UniversityMobileApp\\Migrations\\20240415232519_migrations.cs",
+              "RelativeToolTip": "UniversityMobileApp\\Migrations\\20240415232519_migrations.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAzwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T23:25:20.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentResponse.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\UniversityMobileApp\\UniversityMobileApp\\Response\\StudentResponse.cs",
+              "RelativeDocumentMoniker": "UniversityMobileApp\\Response\\StudentResponse.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\UniversityMobileApp\\UniversityMobileApp\\Response\\StudentResponse.cs",
+              "RelativeToolTip": "UniversityMobileApp\\Response\\StudentResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T23:20:38.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\UniversityMobileApp\\UniversityMobileApp\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "UniversityMobileApp\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\UniversityMobileApp\\UniversityMobileApp\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "UniversityMobileApp\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwBYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T23:06:21.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\UniversityMobileApp\\UniversityMobileApp\\Entity\\Student.cs",
+              "RelativeDocumentMoniker": "UniversityMobileApp\\Entity\\Student.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\UniversityMobileApp\\UniversityMobileApp\\Entity\\Student.cs",
+              "RelativeToolTip": "UniversityMobileApp\\Entity\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T05:26:59.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UMAContext.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\UniversityMobileApp\\UniversityMobileApp\\Context\\UMAContext.cs",
+              "RelativeDocumentMoniker": "UniversityMobileApp\\Context\\UMAContext.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\UniversityMobileApp\\UniversityMobileApp\\Context\\UMAContext.cs",
+              "RelativeToolTip": "UniversityMobileApp\\Context\\UMAContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T05:26:08.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\UniversityMobileApp\\UniversityMobileApp\\Program.cs",
+              "RelativeDocumentMoniker": "UniversityMobileApp\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\UniversityMobileApp\\UniversityMobileApp\\Program.cs",
+              "RelativeToolTip": "UniversityMobileApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T05:21:34.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\UniversityMobileApp\\UniversityMobileApp\\appsettings.json",
+              "RelativeDocumentMoniker": "UniversityMobileApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\UniversityMobileApp\\UniversityMobileApp\\appsettings.json",
+              "RelativeToolTip": "UniversityMobileApp\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-15T05:22:13.709Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

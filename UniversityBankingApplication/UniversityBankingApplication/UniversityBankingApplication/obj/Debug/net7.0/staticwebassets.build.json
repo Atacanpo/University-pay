@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "BCLLzRwURGeSKZRpsd5bqIxZGHjAm2ThalQwsqrHx5c=",
+  "Source": "UniversityBankingApplication",
+  "BasePath": "_content/UniversityBankingApplication",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

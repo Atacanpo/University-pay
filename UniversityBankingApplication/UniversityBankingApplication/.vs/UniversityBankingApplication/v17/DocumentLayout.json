@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Masa\u00FCst\u00FC\\UniversityBankingApplication\\UniversityBankingApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Masa\u00FCst\u00FC\\UniversityBankingApplication\\UniversityBankingApplication\\UniversityBankingApplication\\Response\\StudentResponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UniversityBankingApplication\\Response\\StudentResponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Masa\u00FCst\u00FC\\UniversityBankingApplication\\UniversityBankingApplication\\UniversityBankingApplication\\Context\\UBAContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UniversityBankingApplication\\Context\\UBAContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Masa\u00FCst\u00FC\\UniversityBankingApplication\\UniversityBankingApplication\\UniversityBankingApplication\\Controllers\\StudentController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UniversityBankingApplication\\Controllers\\StudentController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Masa\u00FCst\u00FC\\UniversityBankingApplication\\UniversityBankingApplication\\UniversityBankingApplication\\Entities\\Student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UniversityBankingApplication\\Entities\\Student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentResponse.cs",
+              "DocumentMoniker": "D:\\Masa\u00FCst\u00FC\\UniversityBankingApplication\\UniversityBankingApplication\\UniversityBankingApplication\\Response\\StudentResponse.cs",
+              "RelativeDocumentMoniker": "UniversityBankingApplication\\Response\\StudentResponse.cs",
+              "ToolTip": "D:\\Masa\u00FCst\u00FC\\UniversityBankingApplication\\UniversityBankingApplication\\UniversityBankingApplication\\Response\\StudentResponse.cs",
+              "RelativeToolTip": "UniversityBankingApplication\\Response\\StudentResponse.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T06:57:00.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UBAContext.cs",
+              "DocumentMoniker": "D:\\Masa\u00FCst\u00FC\\UniversityBankingApplication\\UniversityBankingApplication\\UniversityBankingApplication\\Context\\UBAContext.cs",
+              "RelativeDocumentMoniker": "UniversityBankingApplication\\Context\\UBAContext.cs",
+              "ToolTip": "D:\\Masa\u00FCst\u00FC\\UniversityBankingApplication\\UniversityBankingApplication\\UniversityBankingApplication\\Context\\UBAContext.cs",
+              "RelativeToolTip": "UniversityBankingApplication\\Context\\UBAContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T06:54:19.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\Masa\u00FCst\u00FC\\UniversityBankingApplication\\UniversityBankingApplication\\UniversityBankingApplication\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "UniversityBankingApplication\\Controllers\\StudentController.cs",
+              "ToolTip": "D:\\Masa\u00FCst\u00FC\\UniversityBankingApplication\\UniversityBankingApplication\\UniversityBankingApplication\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "UniversityBankingApplication\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAswD0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T03:57:53.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\Masa\u00FCst\u00FC\\UniversityBankingApplication\\UniversityBankingApplication\\UniversityBankingApplication\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "UniversityBankingApplication\\Entities\\Student.cs",
+              "ToolTip": "D:\\Masa\u00FCst\u00FC\\UniversityBankingApplication\\UniversityBankingApplication\\UniversityBankingApplication\\Entities\\Student.cs",
+              "RelativeToolTip": "UniversityBankingApplication\\Entities\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T03:57:33.62Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
