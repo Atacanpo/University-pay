@@ -23,7 +23,7 @@ This web service provides RESTful APIs for querying tuition details, making tuit
 
 For a visual representation of the underlying data structure, refer to the ER Model:
 
-![ER Model](https://github.com/yourusername/yourrepository/blob/main/path/to/your/er_diagram.png)
+![ER Model](ER Diagram.png)
 
 ## API Endpoints
 
