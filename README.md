@@ -1,49 +1,49 @@
-Flight Ticket Booking Web Service
-This web service provides RESTful APIs for querying and purchasing flight tickets.
+University Tuition Payment Web Service
+This web service provides RESTful APIs for querying tuition details, making tuition payments, and allowing administrators to update tuition information.
 
-Api Project Youtube Link
+API Project Youtube Link:
 Youtube.
 
 Features
-QUERY TICKET:
-
-Query available flights based on date, origin, destination, and the number of passengers.
-Supports paging for the list of flights.
+QUERY TUITION
+Query available tuition based on date, period, student number, and class.
+Supports paging for the list of tuition fees.
 No authentication required.
-BUY TICKET:
-
-Perform a ticket purchase transaction using date, origin, destination, and passenger name.
-Books one seat from the selected flight, reducing the number of available seats.
+PAY TUITION
+Perform a tuition payment transaction using date, period, student number, and payment amount.
+Reduce the outstanding tuition amount by making a payment for the selected tuition fee.
 Returns the transaction status.
 Requires authentication with username/password.
 ER Model
 For a visual representation of the underlying data structure, refer to the ER Model.
 
 API Endpoints
-QUERY TICKET
+QUERY TUITION
 Request
+
 Method: GET
 Parameters:
-date: Date of the flight.
-from: Origin airport code.
-to: Destination airport code.
-num_people: Number of people traveling.
+date: Date of the tuition fee.
+period: Period of the tuition fee.
+student_number: Student number.
 page: Page number for paging.
 Response
-Returns a JSON array of flights with details (Date, FlightNumber, Price).
+
+Returns a JSON array of tuition fees with details like Date, Period, StudentNumber, TuitionAmount.
 Supports paging with metadata in the response.
-BUY TICKET
+PAY TUITION
 Request
+
 Method: POST
 Parameters:
-date: Date of the flight.
-from: Origin airport code.
-to: Destination airport code.
-passenger_name: Name of the passenger.
+date: Date of the tuition fee.
+period: Period of the tuition fee.
+student_number: Student number.
+payment_amount: Payment amount.
 username: User's username.
 password: User's password.
 Response
+
 Returns a JSON object with the transaction status.
 Authentication
-The BUY TICKET endpoint requires authentication using a valid username and password.
-Getting Started
+The PAY TUITION endpoint requires authentication using a valid username and password.
