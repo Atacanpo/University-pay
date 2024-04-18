@@ -2,7 +2,7 @@
 
 This web service provides RESTful APIs for querying tuition details, making tuition payments, and allowing administrators to update tuition information.
 
-**API Project Google Drive video Link**: // eklenecek [Video](#)
+**API Project Google Drive video link**: // eklenecek [Video](#)
 
 ## Features
 
