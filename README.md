@@ -21,9 +21,9 @@ This web service provides RESTful APIs for querying tuition details, making tuit
 
 ## ER Model
 
-For a visual representation of the underlying data structure, refer to the ER Model:
+## ER Model
 
-(https://github.com/Atacanpo/University-pay/blob/main/ER%20Diagram.png))
+For a visual representation of the underlying data structure, refer to the [ER Model](https://github.com/Atacanpo/University-pay/blob/main/ER%20Diagram.png).
 
 ## API Endpoints
 
