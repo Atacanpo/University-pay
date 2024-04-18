@@ -17,6 +17,7 @@ Requires authentication with username/password.
 ER Model
 For a visual representation of the underlying data structure, refer to the ER Model.
 
+
 API Endpoints
 QUERY TUITION
 Request
@@ -24,7 +25,8 @@ Request
 Response
 
 Returns a JSON array of tuition fees with details like Date, Period, StudentNumber, TuitionAmount.
-Supports paging with metadata in the response.
+Supports paging with me![ER Diagram](https://github.com/Atacanpo/University-pay/assets/98129042/5a5a8ccd-51f8-4103-a9a5-a84d09fb9346)
+tadata in the response.
 PAY TUITION
 Request
 
